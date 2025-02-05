@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Keya Rani Mondal and I'm a frontend  developer.</h2>
+<h2 align="center">Hi 👋! My name is Keya Rani Mondal and I'm a frontend  developer.</h2>
 
 ###
 
