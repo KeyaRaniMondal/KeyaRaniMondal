@@ -8,7 +8,23 @@
 
 ###
 
-<h2 align="center">Languages I work on</h2>
+<h2 align="center">About Me</h2>
+
+###
+
+<h4 align="center">I am a CSE undergraduate Student having good knowledge  in react js, mongodb , express js. I have also solved some codding problems in a few online judges. You can also ask me about algorithm and structure.</h4>
+
+###
+
+<h2 align="center">Current Activities</h2>
+
+###
+
+<h3 align="left"> 🌍🤝 Currently building a social media platform named ConnectoPia<br>⚛️💡 learning more about react js</h3>
+
+###
+
+<h2 align="center">I have good hands on</h2>
 
 ###
 
@@ -53,14 +69,6 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
-
-###
-
-<h2 align="center">About Me</h2>
-
-###
-
-<h4 align="center">I am a CSE undergraduate Student having good knowledge  in react js, mongodb , express js . You can also ask me about algorithm and structure.</h4>
 
 ###
 
