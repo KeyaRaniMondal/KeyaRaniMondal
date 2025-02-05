@@ -56,6 +56,14 @@
 
 ###
 
+<h2 align="center">About Me</h2>
+
+###
+
+<h4 align="center">I am a CSE undergraduate Student having good knowledge  in react js, mongodb , express js . You can also ask me about algorithm and structure.</h4>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/KeyaRaniMondal/KeyaRaniMondal/output/snake.svg" alt="Snake animation" />
