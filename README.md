@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left"> 🌍🤝 Currently building a social media platform named ConnectoPia<br>⚛️💡 learning more about react js</h3>
+<h3 align="left"> 🌍🤝Actively exploring open source, contributing to projects, and building my own.<br>💡 learning more about AI/ML</h3>
 
 ###
 
