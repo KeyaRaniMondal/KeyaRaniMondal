@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/keya-rani-mondal-75a707285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/keya-rani-mondal-75a707285" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/keya-rani-mondal-75a707285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/keya-rani-mondal-75a707285" height="30" width="40" /></a>
 <a href="https://fb.com/keya.rani.mondal.2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keya.rani.mondal.2024" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/keyaranimondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/keyaranimondal" height="30" width="40" /></a>
 <a href="https://discord.gg/keya_rani_mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="keya_rani_mondal" height="30" width="40" /></a>
