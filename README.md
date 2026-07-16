@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keya Rani Mondal</h1>
 <h3 align="center">Learning every day, building step by step</h3>
-<img src="<img width="800" height="400" alt="keya_animation" src="https://github.com/user-attachments/assets/66d064af-a2ca-4dfb-875f-2557979da32f" />
-" alt="Banner">
+![Keya Banner](https://github.com/user-attachments/assets/66d064af-a2ca-4dfb-875f-2557979da32f)
 <p>I'm a Full Stack Developer and Machine Learning Enthusiast with a strong interest in building scalable web applications and intelligent AI solutions. My work focuses on developing Full stack applications, exploring deep learning & machine learning techniques for real-world problems. I'm always eager to learn new technologies and collaborate on innovative open-source and AI-driven projects.</p>
 
 - 🌱 I’m currently learning **Full Stack Development with hands-on projects**
